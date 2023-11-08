@@ -21,10 +21,4 @@ This function only accepts numeric data greater than 0.  The function finds the 
 \examples{
 # Find the area of a circle with given radius of 4.
 print(area_of_circle(4))
-# Run area_of_circle() function to see what happens when a character is inputted.
-print(area_of_circle("red"))
-# Find area of a circle when given negative radius of -6.
-# Note: a radius cannot be -6, I am just trying to show what happens when numeric data is
-# inputted that does not fit the conditions of the code.
-print(area_of_circle(-3))
 }
